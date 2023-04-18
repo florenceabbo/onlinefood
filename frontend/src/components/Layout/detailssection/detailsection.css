@@ -1,0 +1,33 @@
+.detailsection{
+    padding-top: 8rem;
+}
+.flex-container{
+    display: flex;
+    margin-top: 10%;
+    justify-content: space-between;
+}
+img{
+    width: 50%;
+}
+.food-img-container,.menu-detail-container{
+    width: 50%;
+}
+.food-img-container img{
+    height: 400px;
+}
+.food-img-container{
+    text-align: center;
+}
+.shopping_icon{
+    font-size: 20px;
+}
+.btn{
+    background-color: orange;
+    color: aliceblue;
+    margin-right: 70%;
+    margin-bottom: 30px;
+
+}
+.des{
+    line-height: 1.7rem;
+}

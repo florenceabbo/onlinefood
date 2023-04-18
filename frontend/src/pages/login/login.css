@@ -1,0 +1,94 @@
+/* 
+  .container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+  } */
+
+form {
+    width: 25%;
+    /* border: 1px solid #dfdfdf; */
+    padding: 20px;
+    border-radius: 10px;
+    border-style: dotted;
+  position: relative;
+  bottom: -100px;
+    
+  }
+   pre {
+    width: 70%;
+     color: rgb(13, 13, 13);
+    font-size: larger;
+  }
+  
+  button {
+     background: orange; 
+    color: white;
+  }
+.para {
+    color: red;
+  }
+  .major{
+    display: grid;
+    
+  }
+    .Login2{
+    margin-top: -50px;
+    
+    /* margin-bottom: 100px; 
+    width:350px; 
+    border-style: dotted;
+    border-radius: 10px; */
+    /* width: 25%; */
+    /* border: 1px solid #dfdfdf; */
+    
+    /* border-radius: 5px;
+    border-style: dotted;  */
+  } 
+ 
+  /* .newcus1{
+    color: white;
+    font-size:20px ;
+  }
+  .cusform{
+    color:orange;
+    font-size:20px ;
+  }
+  .cusform2{
+    color:orange;
+    font-size:20px ;
+  }  */
+  
+  /*.lo{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 9000px;
+  }
+  .sin{
+    margin-left:205px ;
+  }  */
+  .Signin1{
+    margin-left: 850px;
+    margin-top: -382px;
+    width: 1300px;
+  }
+  .sin{
+    margin-left: 850px;
+    margin-top: -382px;
+    width: 1300px;
+  }
+   .newcus{
+    color:white;
+    font-size:20px ;
+    position: relative;
+    bottom:-80px ;
+   
+  }
+  .cusform{
+    color: orange;
+  }

@@ -1,0 +1,88 @@
+ .aboutcontain{
+       display: flex;
+       flex-direction: column;
+        margin: 30px; 
+        padding: 25px; 
+   }
+  
+   h1{
+    color: #f5930a; 
+   }
+    h2{
+       color: #f5930a;
+       font-size: 20px;
+       position: relative;
+       top: -5px;
+   
+   }
+   .story{
+    color: white;
+    font-size: 20px;
+   }
+   .dreamers{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+   .img1{
+    height: 250px;
+    width: 600px;
+    align-items: center;
+    border-radius: 20px;
+   }
+   
+   .p1{
+    font-size: 17px;
+    color: white;
+   }
+   .img5{
+    height: 200px;
+    width: 300px;
+   }
+   .img6{
+    height: 200px;
+    width: 300px;
+  
+   }
+   .ji{
+    position: relative;
+    bottom: -25px;
+   }
+   .gul{
+    position: relative;
+    bottom: -25px;
+   }
+   .branches{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+   .branchtext{
+    color: white;
+   }
+   .bra{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+   .bra1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   }
+  .del{
+    margin-top: 30px;
+  }
+  .deltext{
+    color: white;
+  }
+  .img2{
+    height: 200px;
+    width: 300px;
+  }
+ .border{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: none;
+ }
+   .footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 0px;
+   }
